@@ -5,4 +5,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Hello
 >>> print("world")
 world
->>> 
+>>> print("Finished hello world")
