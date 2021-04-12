@@ -6,3 +6,6 @@ Hello
 >>> print("world")
 world
 >>> print("Finished hello world")
+Finished hello world
+>>> 
+>>> print("Begin hello world")
