@@ -21,4 +21,5 @@ This is another big section
 Files can sometimes create conflicts
 
 # Section C
-Of fancy, a third section.
+Of fancy, a third section
+Add another line
